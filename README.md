@@ -1,6 +1,8 @@
 pmcputemp
 ====
 
+*Read this in other languages: [English](README.md), [Spanish](README.es.md).*
+
 a poor man's cpu temperature status icon
 
 Build
